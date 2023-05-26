@@ -11,3 +11,5 @@
   # help keep the project up-to-date with the latest library versions.
 ## SecurityChecker.py: A tool that checks for common security vulnerabilities in python code.
 ## UserInputChecker.py: A tool that checks for common security vulnerabilities in user input fields.
+## PerformanceProfiling.py - a general-purpose Performance Profiling script 
+  # that you can use to profile the performance of other Python scripts:

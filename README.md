@@ -9,3 +9,5 @@
   # can be very helpful in maintaining the quality of the code.
 ## DependencyChecker.py: A script that checks for and updates project dependencies can 
   # help keep the project up-to-date with the latest library versions.
+## SecurityChecker.py: A tool that checks for common security vulnerabilities in python code.
+## UserInputChecker.py: A tool that checks for common security vulnerabilities in user input fields.

@@ -7,3 +7,5 @@
   # This can be useful for maintaining consistency and readability in a project.
 ## testScript.py - Automated Testing Scripts: List python scripts that run unit tests or integration tests 
   # can be very helpful in maintaining the quality of the code.
+## DependencyChecker.py: A script that checks for and updates project dependencies can 
+  # help keep the project up-to-date with the latest library versions.
